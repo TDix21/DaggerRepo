@@ -36,7 +36,7 @@ Cover.ai Test Bot
 4. Create a `config.yaml` file anywhere on desk with the following content:
 
 This is a sample configuration file for our [Github-Dagger-Agent Repo]:
-
+```
 $schema: http://json-schema.org/draft-07/schema#
 
 container:
@@ -64,7 +64,7 @@ test_generation:
     save_next_to_code_under_test: false
     test_directory: "tests"
     test_suffix: "test"
-
+```
 </div>
 
 <h2>Usage</h2>
