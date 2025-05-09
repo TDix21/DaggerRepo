@@ -88,7 +88,7 @@ Here, we provide the config file, a GitHub classic token, the target branch, an 
 
 <p> In order to generate a Github token, please visit <a href="https://github.com/settings/tokens">here</a> (Remember that your token is supposed to be a classic token). </p>
 <p> For OpenAI API keys, you must create an OpenAI account and generate a key <a href="https://platform.openai.com/api-keys">here</a>. </p>
-<p> For OpenROuter API keys, you must create an OpenRouter account and generate a key <a href="https://openrouter.ai/settings/keys">here</a>. </p>
+<p> For OpenRouter API keys, you must create an OpenRouter account and generate a key <a href="https://openrouter.ai/settings/keys">here</a>. </p>
 
 <br>
 
