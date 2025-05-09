@@ -16,7 +16,7 @@ Cover.ai Test Bot
 <br>
 
 <div>
-<h2>Prerequisites</h2>
+<h1>Prerequisites</h1>
 
 1. Install Dagger.io (Instructions can be found <a target="_blank" href="https://docs.dagger.io/install"/> here</a>)
 
@@ -26,7 +26,7 @@ Cover.ai Test Bot
 
 <div>
     
-<h2>Configuration</h2>
+<h1>Configuration</h1>
 
 1. All repositories should be configured to run tests and generate coverage reports.
 
@@ -68,7 +68,7 @@ test_generation:
 ```
 </div>
 
-<h2>Usage</h2>
+<h1>Usage</h1>
 
 In order to see all functions available with these agents, type in the following command using Dagger: ``` dagger functions ```
 
@@ -98,7 +98,7 @@ An example of what a call to dagger using the REQUIRED arguments is:
 dagger call --config-file ./demo/agencyservices.yaml generate-unit-tests --github-access-token=env:GITHUB_TOKEN --repository-url https://github.com/Siafu/agencyservices-ai.git --open-router-api-key=env:OPEN_ROUTER_API_KEY --provider openrouter --branch feat/loveable-pairing --model-name x-ai/grok-3-mini-beta
 ```
 
-<h2>Extensibility</h2>
+<h1>Extensibility</h1>
 
 Check [Reporter Interface] (insert here)
 ```
@@ -134,7 +134,7 @@ dagger.json
 
 <br>
 
-<h2>Workflow</h2>
+<h1>Workflow</h1>
 
 ```mermaid
 flowchart TD
