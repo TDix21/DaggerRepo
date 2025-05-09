@@ -1,5 +1,5 @@
 # DaggerRepo
-
+<!--
 <style>
     body { font-family: Arial, sans-serif; background-color: #0d1117; color: white; padding: 20px; }
     h1, h2, h3 { border-bottom: 1px solid #30363d; padding-bottom: 0.3em; }
@@ -9,6 +9,7 @@
     ul { list-style-type: disc; margin-left: 20px; }
     strong { font-weight: bold; }
 </style>
+-->
 
 Cover.ai Test Bot
 
