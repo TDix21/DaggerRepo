@@ -5,7 +5,7 @@ Cover.ai Test Bot
 <br>
 
 <div>
-<b>Prerequisites</b>
+<span style="color: white; font-weight: bold; text-decoration: underline;">Prerequisites</span>
 
 1. Install Dagger.io (Instructions can be found <a href=https://docs.dagger.io/install/> here</a>)
 
