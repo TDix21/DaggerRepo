@@ -87,8 +87,8 @@ ARGUMENTS
 Here, we provide the config file, a GitHub classic token, the target branch, an optional Logfire token, the desired model, an API key (OpenRouter or OpenAI), and specify the provider (Openrouter or Openai).
 
 <p> In order to generate a Github token, please visit <a href="https://github.com/settings/tokens">here</a> (Remember that your token is supposed to be a classic token). </p>
-<p> If you choose to use OpenAI, in order to generate an OpenAI API key, you must create an OpenAI account and generate an API Key <a href="https://platform.openai.com/api-keys">here</a>. </p>
-<p> If you choose to use OpenRouter, in order to generate an OpenRouter API key, create an OpenRouter account, and generate an API Key <a href="https://openrouter.ai/settings/keys">here</a>. </p>
+<p> For OpenAI API keys, you must create an OpenAI account and generate a key <a href="https://platform.openai.com/api-keys">here</a>. </p>
+<p> For OpenROuter API keys, you must create an OpenRouter account and generate a key <a href="https://openrouter.ai/settings/keys">here</a>. </p>
 
 <br>
 
