@@ -69,9 +69,9 @@ test_generation:
 
 <h2>Usage</h2>
 
-In order to see all functions available with these agents, type in the following command using Dagger: dagger functions
+In order to see all functions available with these agents, type in the following command using Dagger: ``` dagger functions ```
 
-If additional context is needed as to how a function may work and what the arguments need to be, type in the following command using Dagger: dagger call [function name] --help
+If additional context is needed as to how a function may work and what the arguments need to be, type in the following command using Dagger: ``` dagger call [function name] --help ```
 ```
 ARGUMENTS
       --branch string                 Branch to generate tests for [required]
