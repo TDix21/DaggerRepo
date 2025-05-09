@@ -6,7 +6,8 @@ Prerequisites
 
 1. Install Dagger.io (Instructions can be found <a href=https://docs.dagger.io/install/> here</a>)
 
-
+<div>
+    
 Configuration
 
 1. All repositories should be configured to run tests and generate coverage reports.
@@ -46,6 +47,8 @@ test_generation:
     save_next_to_code_under_test: false
     test_directory: "tests"
     test_suffix: "test"
+
+</div>
 
 How to Use
 
