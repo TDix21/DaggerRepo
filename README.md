@@ -100,7 +100,7 @@ dagger call --config-file ./demo/agencyservices.yaml generate-unit-tests --githu
 
 <h1>Extensibility</h1>
 
-<span>Reporter Plugin Interface</span>
+<span>Reporter Plugin Interface - see dagger/src/main/reporter.py</span>
 ```
 get-code-under-test    Extract code under test from the coverage HTML report
 get-coverage-html      Get the coverage HTML file from the report file
