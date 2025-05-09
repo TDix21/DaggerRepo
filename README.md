@@ -107,8 +107,7 @@ validate-config        Validate the configuration file
 ```
 
 Jest implementation (insert info here)
-
-
+```
 dagger.json
 
 {
@@ -128,6 +127,7 @@ dagger.json
     }
   ]
 }
+```
 
 ```mermaid
 flowchart TD
