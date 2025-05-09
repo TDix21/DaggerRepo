@@ -67,7 +67,7 @@ test_generation:
 
 </div>
 
-How to Use
+<h2>Usage</h2>
 
 In order to see all functions available with these agents, type in the following command using Dagger: dagger functions
 
