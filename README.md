@@ -2,7 +2,7 @@
 <!--
 <style>
     body { font-family: Arial, sans-serif; background-color: #0d1117; color: white; padding: 20px; }
-    h1, h2, h3 { border-bottom: 1px solid #30363d; padding-bottom: 0.3em; }
+    h1, h3 { border-bottom: 1px solid #30363d; padding-bottom: 0.3em; }
     code { background-color: #161b22; padding: 0.2em 0.4em; border-radius: 4px; }
     pre { background-color: #161b22; padding: 1em; border-radius: 6px; overflow: auto; }
     a { color: #58a6ff; text-decoration: underline; }
