@@ -75,14 +75,15 @@ ARGUMENTS
 
 Here we pass the configuration file, a Github access token, a branch, an optional Logfire token, the model that you would like to use, either your OpenRouter API Key or your OpenAI API key, and the provider, which at the moment is either OpenRouter or OpenAI
 
-In order to generate a Github token, [please vist here](https://github.com/settings/tokens) (Remember that your token is supposed to be a classic token).
+In order to generate a Github token, please visit <a href=https://docs.dagger.io/install/](https://github.com/settings/tokens>here (Remember that your token is supposed to be a classic token).
 If you choose to use OpenAI, in order to generate an OpenAI API key, you must create an OpenAI account and generate an API Key [here] (https://platform.openai.com/api-keys).
 If you choose to use OpenRouter, in order to generate an OpenRouter API key, create an OpenRouter account, and generate an API Key [here] (https://openrouter.ai/settings/keys).
 
 An example of what a call to dagger using the REQUIRED arguments is:
 
+``` bash
 dagger call --config-file ./demo/agencyservices.yaml generate-unit-tests --github-access-token=env:GITHUB_TOKEN --repository-url https://github.com/Siafu/agencyservices-ai.git --open-router-api-key=env:OPEN_ROUTER_API_KEY --provider openrouter --branch feat/loveable-pairing --model-name x-ai/grok-3-mini-beta
-
+```
 
 Extensibility
 
