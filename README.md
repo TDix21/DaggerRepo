@@ -72,7 +72,7 @@ test_generation:
 In order to see all functions available with these agents, type in the following command using Dagger: dagger functions
 
 If additional context is needed as to how a function may work and what the arguments need to be, type in the following command using Dagger: dagger call [function name] --help
-
+```
 ARGUMENTS
       --branch string                 Branch to generate tests for [required]
       --github-access-token Secret    GitHub access token [required]
@@ -82,7 +82,7 @@ ARGUMENTS
       --open-router-api-key Secret    OpenRouter API key (required if provider is 'openrouter')
       --openai-api-key Secret         OpenAI API key (required if provider is 'openai')
       --provider string               LLM provider ('openrouter' or 'openai') (default "openrouter")
-
+```
 Here we pass the configuration file, a Github access token, a branch, an optional Logfire token, the model that you would like to use, either your OpenRouter API Key or your OpenAI API key, and the provider, which at the moment is either OpenRouter or OpenAI
 
 <p> In order to generate a Github token, please visit <a href=https://docs.dagger.io/install/](https://github.com/settings/tokens>here</a> (Remember that your token is supposed to be a classic token). </p>
