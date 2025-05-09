@@ -13,6 +13,8 @@
 
 Cover.ai Test Bot
 
+<img src="![robot_ant_3](https://github.com/user-attachments/assets/ad0dfab5-646e-472b-9f43-e9234c12074c)">
+
 <br>
 
 <div>
