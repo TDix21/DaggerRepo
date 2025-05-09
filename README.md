@@ -75,8 +75,8 @@ ARGUMENTS
 
 Here we pass the configuration file, a Github access token, a branch, an optional Logfire token, the model that you would like to use, either your OpenRouter API Key or your OpenAI API key, and the provider, which at the moment is either OpenRouter or OpenAI
 
-In order to generate a Github token, please visit <a href=https://docs.dagger.io/install/](https://github.com/settings/tokens>here</a> (Remember that your token is supposed to be a classic token).
-If you choose to use OpenAI, in order to generate an OpenAI API key, you must create an OpenAI account and generate an API Key <a href="https://platform.openai.com/api-keys">here</a>.
+<p> In order to generate a Github token, please visit <a href=https://docs.dagger.io/install/](https://github.com/settings/tokens>here</a> (Remember that your token is supposed to be a classic token). </p>
+<p> If you choose to use OpenAI, in order to generate an OpenAI API key, you must create an OpenAI account and generate an API Key <a href="https://platform.openai.com/api-keys">here</a>. </p>
 If you choose to use OpenRouter, in order to generate an OpenRouter API key, create an OpenRouter account, and generate an API Key [here] (https://openrouter.ai/settings/keys).
 
 An example of what a call to dagger using the REQUIRED arguments is:
