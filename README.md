@@ -96,7 +96,7 @@ An example of what a call to dagger using the REQUIRED arguments is:
 dagger call --config-file ./demo/agencyservices.yaml generate-unit-tests --github-access-token=env:GITHUB_TOKEN --repository-url https://github.com/Siafu/agencyservices-ai.git --open-router-api-key=env:OPEN_ROUTER_API_KEY --provider openrouter --branch feat/loveable-pairing --model-name x-ai/grok-3-mini-beta
 ```
 
-Extensibility
+<h2>Extensibility</h2>
 
 Check [Reporter Interface] (insert here)
 ```
