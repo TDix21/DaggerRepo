@@ -25,7 +25,7 @@ Cover.ai Test Bot
 
 <div>
     
-Configuration
+<h2>Configuration</h2>
 
 1. All repositories should be configured to run tests and generate coverage reports.
 
