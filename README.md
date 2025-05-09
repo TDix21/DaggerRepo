@@ -84,7 +84,7 @@ ARGUMENTS
       --openai-api-key Secret         OpenAI API key (required if provider is 'openai')
       --provider string               LLM provider ('openrouter' or 'openai') (default "openrouter")
 ```
-Here we pass the configuration file, a Github classic access token, a branch, an optional Logfire token, the model that you would like to use, EITHER your OpenRouter API Key OR your OpenAI API key, and the provider, which at the moment is EITHER OpenRouter OR OpenAI
+Here, we provide the config file, a GitHub classic token, the target branch, an optional Logfire token, the desired model, an API key (OpenRouter or OpenAI), and specify the provider (Openrouter or Openai).
 
 <p> In order to generate a Github token, please visit <a href="https://github.com/settings/tokens">here</a> (Remember that your token is supposed to be a classic token). </p>
 <p> If you choose to use OpenAI, in order to generate an OpenAI API key, you must create an OpenAI account and generate an API Key <a href="https://platform.openai.com/api-keys">here</a>. </p>
