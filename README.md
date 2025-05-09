@@ -4,7 +4,7 @@ Cover.ai Test Bot
 
 Prerequisites
 
-1. Install Dagger.io (Instructions can be found [here] (https://docs.dagger.io/install/)
+1. Install Dagger.io (Instructions can be found <a href=https://docs.dagger.io/install/> [here] </a>
 
 
 Configuration
