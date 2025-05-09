@@ -1,10 +1,14 @@
 # DaggerRepo
 
 Cover.ai Test Bot
-
+<div>
 Prerequisites
 
 1. Install Dagger.io (Instructions can be found <a href=https://docs.dagger.io/install/> here</a>)
+
+</div>
+
+<br>
 
 <div>
     
