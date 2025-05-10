@@ -17,7 +17,7 @@ Cover.ai Test Bot
 
 <br>
 
-<h1>[here](src/coverage_agent/README.md)</h1>
+<h1>[here](images/https://github.com/TDix21/DaggerRepo/blob/main/images/robot_ant_3.png)</h1>
 <div>
 <h1>Prerequisites</h1>
 
