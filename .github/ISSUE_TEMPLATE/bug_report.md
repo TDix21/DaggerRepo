@@ -1,13 +1,12 @@
 ---
 name: Bug report
 about: Report any issues using this template
-title: "[ISSUE]"
+title: "[ISSUE] "
 labels: ''
 assignees: ''
-
 ---
 
-** Create a branch with the issue **
+*Firstly, create a branch with the issue*
 
 **Describe the bug** \
 A clear and concise description of what the bug is.
