@@ -11,14 +11,14 @@ assignees: ''
 **Describe the bug** \
 A clear and concise description of what the bug is.
 
-**To Reproduce** \
-List steps to reproduce the behavior:
+**Steps To Reproduce** \
+List steps to reproduce the behavior, an example is listed below:
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
 4. See error
 
-**Expected behavior** \
+**Expected Behavior** \
 A clear and concise description of what you expected to happen.
 
 **Actual behavior** \
