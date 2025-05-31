@@ -6,7 +6,7 @@ labels: ''
 assignees: ''
 ---
 
-**Create a branch with the issue**
+**Create a branch with the issue** \
 Checkout a branch with your issue
 
 **Describe the bug** \
